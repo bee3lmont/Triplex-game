@@ -1,0 +1,3 @@
+-ID:\Projects\Triplex\Triplex
+-target
+i686-pc-windows-gnu
